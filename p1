@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<img src="https://picsum.photos/200/?blur" alt=""> <br>
+  <img src="https://picsum.photos/200/300/?grayscale1"><br>
+  <a href="https://www.w3schools.com/html/html_basic.asp">go to w3schools</a>
+  <hr>
+<a href="media/1060-536x354-blur_2.jpg">this is my pic</a><br><hr>
+<a href="sec.html">go to 2nd page</a>
+
+  <img src="https://picsum.photos/seed/picsum/201/300" alt=""><br>
+  <img src="https://picsum.photos/id/870/200/300?grayscale&blur=2" alt="">
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src="https://picsum.photos/id/870/536/354?grayscale&blur=2" alt="">
+<a href="index.html">go to 1st page</a>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    my 3ed page <br>
+    <img src="https://picsum.photos/seed/picsum/200" alt="">
+<a href="sec.html">go to my 2nd page</a>
+</body>
+</html>
